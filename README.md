@@ -24,8 +24,6 @@ topcoder-cost-estimation/
 ├── llm_extractor_local.py         # Local LLM communication script via Ollama
 ├── topcoder_dataset_FINAL.csv     # Cleaned historical dataset used for model training
 ├── topcoder_dataset.csv           # Raw scraped dataset (baseline)
-├── chart_1_feature_importance.png # EDA visualization: Feature importance
-├── chart_2_model_comparison.png   # EDA visualization: Model accuracy
 └── README.md                      # Project documentation
 ```
 
